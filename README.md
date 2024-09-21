@@ -1,6 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Jihye-cellen's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <div align="center">
+  
+  ### 👋 안녕하세요! 저는 김지혜입니다.
+  
+  저는 효율적이고 확장 가능한 웹 애플리케이션을 만드는 것을 좋아하는 개발자입니다.
+  <br>
+  풀스택 개발을 공부 하고 있으며, React, Java, Python, Node.js, 다양한 데이터베이스 시스템을 사용한 경험이 있습니다.
+  <br>
+🔭 막 따끈하게 수료를 마친 개발자입니다.
+<br>
+🌱 새로운 기술을 배우고 혁신적인 솔루션을 탐구하는 것을 좋아합니다.
+<br>
+⚡ 재미있는 사실: 해결이 안되면 끝까지 해야하는 성격이며, 새로운 기술에도 흥미가 많습니다.
+<br>
+
+  제 프로필에 방문해 주셔서 감사합니다. 흥미로운 내용을 발견하셨길 바랍니다! 😄
+
+</div>
+<br>
+
+<div align="center">
   <h3>🛠 Tech Stack</h3>
 </div>
 
